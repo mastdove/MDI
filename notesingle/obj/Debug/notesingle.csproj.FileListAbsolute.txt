@@ -1,0 +1,10 @@
+D:\uni\Основы инженерии\notesingle\notesingle\bin\Debug\notesingle.exe.config
+D:\uni\Основы инженерии\notesingle\notesingle\bin\Debug\notesingle.exe
+D:\uni\Основы инженерии\notesingle\notesingle\bin\Debug\notesingle.pdb
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.csprojAssemblyReference.cache
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.Form1.resources
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.Properties.Resources.resources
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.csproj.GenerateResource.cache
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.csproj.CoreCompileInputs.cache
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.exe
+D:\uni\Основы инженерии\notesingle\notesingle\obj\Debug\notesingle.pdb
